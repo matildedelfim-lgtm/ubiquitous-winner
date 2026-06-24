@@ -1,0 +1,79 @@
+{
+  "grass_base": {
+    "x": 0,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "sand_base": {
+    "x": 16,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "snow_base": {
+    "x": 32,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "bush_green_1": {
+    "x": 48,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "bush_green_2": {
+    "x": 64,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "bush_teal": {
+    "x": 80,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "bush_green_3": {
+    "x": 96,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "water_shallow": {
+    "x": 112,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "water_medium": {
+    "x": 128,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "water_deep": {
+    "x": 144,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "ice_diagonal": {
+    "x": 160,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  }
+}
