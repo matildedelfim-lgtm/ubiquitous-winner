@@ -20,57 +20,64 @@
     "height": 16,
     "pixelRatio": 1
   },
-  "bush_green_1": {
+  "bush_1": {
     "x": 48,
     "y": 0,
     "width": 16,
     "height": 16,
     "pixelRatio": 1
   },
-  "bush_green_2": {
+  "bush_2": {
     "x": 64,
     "y": 0,
     "width": 16,
     "height": 16,
     "pixelRatio": 1
   },
-  "bush_teal": {
+  "bush_3": {
     "x": 80,
     "y": 0,
     "width": 16,
     "height": 16,
     "pixelRatio": 1
   },
-  "bush_green_3": {
+  "bush_4": {
     "x": 96,
     "y": 0,
     "width": 16,
     "height": 16,
     "pixelRatio": 1
   },
-  "water_shallow": {
+  "water_1": {
     "x": 112,
     "y": 0,
     "width": 16,
     "height": 16,
     "pixelRatio": 1
   },
-  "water_medium": {
+  "water_2": {
     "x": 128,
     "y": 0,
     "width": 16,
     "height": 16,
     "pixelRatio": 1
   },
-  "water_deep": {
+  "water_3": {
     "x": 144,
     "y": 0,
     "width": 16,
     "height": 16,
     "pixelRatio": 1
   },
-  "ice_diagonal": {
+  "water_4": {
     "x": 160,
+    "y": 0,
+    "width": 16,
+    "height": 16,
+    "pixelRatio": 1
+  },
+  "ice_diagonal": {
+    "x": 176,
     "y": 0,
     "width": 16,
     "height": 16,
